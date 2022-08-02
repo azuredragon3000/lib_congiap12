@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">lib_congiap12</string>
+
+    <string name="fragboiphuongdong_nammang">nam mạng</string>
+    <string name="fragboiphuongdong_noidung">nội dung</string>
+    <string name="phuongdong_boiphuongdong">Bói Phương Đông</string>
+    <string name="phuongdong_tuoiti">Tuổi tí</string>
+    <string name="phuongdong_tuoisuu">Tuổi sửu</string>
+    <string name="phuongdong_tuoidan">Tuổi dần</string>
+    <string name="phuongdong_tuoimao">Tuổi mão</string>
+    <string name="phuongdong_tuoithin">Tuổi thìn</string>
+    <string name="phuongdong_tuoiran">Tuổi rắn</string>
+    <string name="phuongdong_tuoingo">Tuổi ngọ</string>
+    <string name="phuongdong_tuoimui">Tuổi mùi</string>
+    <string name="phuongdong_tuoithan">Tuổi thân</string>
+    <string name="phuongdong_tuoidau">Tuổi dậu</string>
+    <string name="phuongdong_tuoituat">Tuổi tuất</string>
+    <string name="phuongdong_tuoihoi">Tuổi hợi</string>
+
+
+    <string name="fragboiphuongdong_numang">nữ mạng</string>
+    <string name="fragboiphuongdong_namsinh">năm sinh</string>
+    <string name="fragboiphuongdong_amlich">âm lịch</string>
+    <string name="fragboiphuongdong_mang">mạng</string>
+    <string name="fragboiphuongdong_cung">cung</string>
+    <string name="fragboiphuongdong_hanh">hành</string>
+</resources>
